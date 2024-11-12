@@ -1,0 +1,60 @@
+City Name,Temperature,Feels Like,Wind Speed,Wind Direction,Humidity,Dew Point,Visibilities,Rain Probability,Amount of Rain
+Ambon,26 °C,27 °C,7 km/h,E↑,90%,24 °C,11 km,4%,0.6  mm
+Ketapang,28 °C,31 °C,7 km/h,ESE↑,81%,24 °C,9 km,17%,0.3  mm
+Pematangsiantar,24 °C,23 °C,2 km/h,SW↑,90%,22 °C,7 km,43%,2.9  mm
+Balikpapan,25 °C,26 °C,6 km/h,WSW↑,92%,24 °C,8 km,47%,4.1  mm
+Kudus,26 °C,29 °C,3 km/h,ENE↑,89%,25 °C,11 km,5%,-
+Pontianak,26 °C,28 °C,4 km/h,WNW↑,90%,24 °C,9 km,5%,-
+Banda aceh,28 °C,31 °C,11 km/h,SSW↑,81%,24 °C,11 km,9%,0.1  mm
+Kupang,25 °C,25 °C,7 km/h,E↑,85%,22 °C,10 km,0%,-
+Raba,24 °C,22 °C,6 km/h,S↑,97%,23 °C,11 km,0%,-
+Tanjungkarang,25 °C,25 °C,3 km/h,S↑,94%,24 °C,3 km,34%,8.9  mm
+Madiun,26 °C,28 °C,4 km/h,NNW↑,90%,24 °C,8 km,28%,3.0  mm
+Rantepao,24 °C,24 °C,6 km/h,W↑,90%,22 °C,7 km,8%,0.5  mm
+Bandung,23 °C,21 °C,1 km/h,WNW↑,92%,21 °C,6 km,48%,5.0  mm
+Makassar,25 °C,26 °C,6 km/h,E↑,93%,24 °C,10 km,3%,0.2  mm
+Samarinda,24 °C,24 °C,1 km/h,SW↑,93%,23 °C,7 km,27%,1.1  mm
+Banjarmasin,24 °C,23 °C,2 km/h,NE↑,94%,23 °C,8 km,27%,0.4  mm
+Malang,22 °C,21 °C,4 km/h,NNE↑,91%,21 °C,11 km,28%,0.5  mm
+Sangatta,25 °C,26 °C,3 km/h,WNW↑,93%,24 °C,10 km,18%,1.2  mm
+Batam,26 °C,29 °C,2 km/h,WNW↑,86%,24 °C,7 km,14%,0.4  mm
+Mamuju,26 °C,28 °C,10 km/h,E↑,87%,24 °C,9 km,4%,0.3  mm
+Semarang,27 °C,32 °C,4 km/h,SSW↑,87%,25 °C,11 km,34%,0.9  mm
+Bekasi,26 °C,28 °C,6 km/h,E↑,87%,24 °C,7 km,35%,3.5  mm
+Manado,25 °C,26 °C,4 km/h,SSE↑,88%,23 °C,10 km,1%,-
+Seminyak,27 °C,32 °C,14 km/h,E↑,90%,26 °C,9 km,37%,0.5  mm
+Bengkulu,26 °C,27 °C,5 km/h,NE↑,87%,23 °C,6 km,51%,4.8  mm
+Manokwari,23 °C,22 °C,6 km/h,SSW↑,89%,21 °C,11 km,56%,1.3  mm
+Serang,26 °C,28 °C,5 km/h,ESE↑,89%,24 °C,8 km,37%,3.3  mm
+Bogor,24 °C,23 °C,3 km/h,S↑,91%,22 °C,6 km,43%,5.5  mm
+Mataram,25 °C,27 °C,7 km/h,ESE↑,92%,24 °C,11 km,5%,-
+Singaraja,26 °C,27 °C,5 km/h,SE↑,90%,24 °C,10 km,0%,-
+Bukittinggi,26 °C,28 °C,4 km/h,NNE↑,84%,23 °C,11 km,5%,0.2  mm
+Medan,26 °C,29 °C,3 km/h,W↑,91%,25 °C,9 km,16%,0.3  mm
+Sofifi,25 °C,26 °C,6 km/h,NE↑,90%,24 °C,7 km,54%,1.6  mm
+Cirebon,27 °C,30 °C,6 km/h,SE↑,87%,25 °C,7 km,13%,0.6  mm
+Nusa lembongan,27 °C,31 °C,13 km/h,E↑,90%,25 °C,9 km,6%,0.1  mm
+Surabaya,28 °C,33 °C,12 km/h,E↑,79%,24 °C,7 km,10%,0.3  mm
+Denpasar,27 °C,31 °C,13 km/h,E↑,90%,25 °C,9 km,6%,0.1  mm
+Nusantara,25 °C,26 °C,6 km/h,WSW↑,92%,24 °C,8 km,47%,4.1  mm
+Surakarta,26 °C,28 °C,10 km/h,N↑,87%,24 °C,10 km,31%,1.4  mm
+Endeh,24 °C,24 °C,3 km/h,ENE↑,92%,23 °C,12 km,0%,-
+Padang,26 °C,28 °C,4 km/h,NNE↑,84%,23 °C,11 km,5%,0.2  mm
+Tanjung pinang,26 °C,29 °C,2 km/h,NNE↑,87%,24 °C,10 km,0%,-
+Gorontalo,24 °C,24 °C,4 km/h,NNE↑,95%,24 °C,9 km,41%,0.6  mm
+Palangkaraya,26 °C,27 °C,3 km/h,ESE↑,91%,24 °C,10 km,34%,0.6  mm
+Tasikmalaya,24 °C,22 °C,3 km/h,NNW↑,94%,23 °C,6 km,27%,5.6  mm
+Jakarta,27 °C,30 °C,8 km/h,E↑,84%,24 °C,7 km,54%,2.1  mm
+Palembang,26 °C,29 °C,4 km/h,NNE↑,85%,24 °C,7 km,10%,1.0  mm
+Tegal,28 °C,32 °C,5 km/h,ESE↑,85%,25 °C,10 km,10%,0.1  mm
+Jambi,26 °C,28 °C,2 km/h,W↑,90%,24 °C,9 km,46%,1.6  mm
+Palu,25 °C,27 °C,7 km/h,SE↑,89%,23 °C,11 km,34%,0.5  mm
+Ternate,25 °C,26 °C,6 km/h,NE↑,90%,24 °C,7 km,54%,1.6  mm
+Jayapura,26 °C,27 °C,9 km/h,SE↑,91%,24 °C,9 km,16%,1.7  mm
+Pangkal pinang,26 °C,27 °C,3 km/h,N↑,88%,24 °C,6 km,71%,4.5  mm
+Ubud,27 °C,31 °C,13 km/h,E↑,90%,25 °C,9 km,6%,0.1  mm
+Kediri,26 °C,27 °C,5 km/h,WSW↑,90%,24 °C,10 km,26%,1.0  mm
+Pekalongan,27 °C,31 °C,5 km/h,E↑,85%,24 °C,7 km,12%,0.5  mm
+Yogyakarta,26 °C,29 °C,2 km/h,N↑,87%,24 °C,10 km,4%,1.2  mm
+Kendari,23 °C,22 °C,7 km/h,SW↑,92%,22 °C,11 km,0%,-
+Pekanbaru,26 °C,28 °C,2 km/h,SE↑,87%,24 °C,10 km,21%,0.3  mm
